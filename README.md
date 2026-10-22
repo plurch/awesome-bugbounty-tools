@@ -584,6 +584,7 @@
 - [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [notify](https://github.com/projectdiscovery/notify) - Notify is a Go-based assistance package that enables you to stream the output of several tools (or read from a file) and publish it to a variety of supported platforms.
 - [wakaru](https://github.com/pionxzh/wakaru) - Decompiles production JavaScript bundles (webpack, esbuild, Metro, and more) into readable modules, so JS files are easier to review and search.
+- [Related Repos](https://relatedrepos.com/) - Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
 
 ### AI Agents
 
