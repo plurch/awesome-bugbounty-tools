@@ -613,6 +613,7 @@
 - [cvemap](https://github.com/projectdiscovery/cvemap) - Modern CLI for exploring vulnerability data with powerful search, filtering, and analysis capabilities.
 - [cut-cdn](https://github.com/ImAyrix/cut-cdn) - Removing CDN IPs from the list of IP addresses.
 - [ds_store_exp](https://github.com/lijiejie/ds_store_exp) - A .DS_Store file disclosure exploit. It parses .DS_Store file and downloads files recursively. 
+- [Related Repos for awesome-bugbounty-tools](https://relatedrepos.com/gh/vavkamil/awesome-bugbounty-tools) - Discover related open source projects for awesome-bugbounty-tools.
 
 ---
 
